@@ -54,3 +54,7 @@
 Enter any of the above for the successful authorization.
 
 	Finally you will get options, choose as per your choice and you can run queries directly using program.
+
+## Find this repository useful? :heart:
+Support it by joining __[stargazers](https://github.com/AmartyaSingh97/Project-Management-System/stargazers)__ for this repository. :star: <br>
+Also, __[follow me](https://github.com/AmartyaSingh97)__ on GitHub for my next creations! 🤩
