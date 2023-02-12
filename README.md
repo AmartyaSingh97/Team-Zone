@@ -1,6 +1,6 @@
 <h1 align="center"> 🚀 Team Zone.</h1>
 
-•	Steps to import database from the zip folder.
+•	Steps to import database-schema from the zip folder.
 
 1.	 Open MySQL workbench in your device.
 
