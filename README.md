@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Project Management System.</h1>
+<h1 align="center"> 🚀 Team Zone.</h1>
 
 •	Steps to import database from the zip folder.
 
